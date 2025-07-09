@@ -1,0 +1,2 @@
+CREATE DATABASE payment;
+CREATE DATABASE shipment; 

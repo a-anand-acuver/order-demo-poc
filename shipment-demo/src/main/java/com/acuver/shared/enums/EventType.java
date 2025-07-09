@@ -1,0 +1,13 @@
+package com.acuver.shared.enums;
+
+public enum EventType {
+    CREATE_ORDER_REQUEST,
+    CANCEL_ORDER_REQUEST,
+    ORDER_CREATED,
+    ORDER_CANCELLED,
+    ORDER_AUTHORIZED,
+    AUTH_FAILED,
+    ORDER_CHARGED,
+    SHIPMENT_CREATED,
+    SHIPMENT_PICKED
+} 
